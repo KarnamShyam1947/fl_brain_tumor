@@ -78,7 +78,3 @@ Example Kaggle dataset: [Brain Tumor Classification (MRI)](https://www.kaggle.co
 * This is a simplified simulation of federated learning using local scripts for server and clients.
 * Useful for educational and experimental purposes.
 
----
-
-Let me know if you want it saved to a file or customized further!
-```
